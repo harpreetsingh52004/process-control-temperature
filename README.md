@@ -75,25 +75,4 @@ The capstone of the course was a **closed-loop temperature control system**:
 
 ---
 
-## Repo contents
-
-```
-.
-├── README.md
-├── temperature/
-│   ├── step-response-data.csv
-│   ├── matlab/
-│   │   ├── fopdt_fit.m
-│   │   └── step_response_plot.m
-│   ├── pid-config.md
-│   └── calibration-record.md
-├── pressure/             # Lab 2-3 deliverables
-├── flow/                 # Lab 4-5 deliverables
-├── level/                # Lab 6 deliverables
-├── labs/                 # PCS455 lab PDFs (1–9)
-└── docs/
-```
-
----
-
 📫 **Harpreet Singh** — [harpreetsingh.cloud](https://harpreetsingh.cloud) · [GitHub](https://github.com/harpreetsingh52004)
